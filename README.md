@@ -1,16 +1,22 @@
 ## Hi there 👋
 
 <!--
-**Xinyichen120/Xinyichen120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Xinyi Chen
 
-Here are some ideas to get you started:
+**Master Student in Biostatistics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Welcome to my GitHub profile! Here’s a little about me:
+
+- 🎓 **Education**: BSc in Applied Mathematics, Xi'an Jiaotong-Liverpool University
+- 📚 **Current Program**: Biostatistics at UW, Seattle
+- 📊 **Research Interests**:
+  - Statistical Genetics
+  - Causal Inference
+  - High Dimensional Statistics
+- 🏃 **Hobbies**: Running, basketball, coffee & tea, cooking
+
+## Contact
+- ✉️ Email: your_email@example.com
+- 🌐 [Personal Website](https://xinyichen120.github.io/Xinyi-Chen)
+
 -->
