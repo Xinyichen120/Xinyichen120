@@ -1,3 +1,4 @@
+![Xinyi Chen](/Users/xinyichen/Downloads/WechatIMG290.jpg)
 ## Hi there 👋 WELCOME to XINYI CHEN's GitHub profile!
 
  Here’s a little about me:
