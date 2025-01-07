@@ -1,13 +1,9 @@
-## Hi there 👋
+## Hi there 👋 WELCOME to XINYI CHEN's GitHub profile!
 
-# Xinyi Chen
+ Here’s a little about me:
 
-**Master Student in Biostatistics**
+🎓 Education: I graduated from the University of Minnesota, Twin Cities, with a BA in Statistics and a BS in Marketing. Such an interesting combination, right? Haha! Currently, I am a master's student in Statistics at the University of Washington, Seattle.
 
-Welcome to my GitHub profile! Here’s a little about me:
-
-- 🎓 **Education**: BSc in Applied Mathematics, Xi'an Jiaotong-Liverpool University
-- 📚 **Current Program**: Biostatistics at UW, Seattle
 - 📊 **Research Interests**:
   - Statistical Genetics
   - Causal Inference
