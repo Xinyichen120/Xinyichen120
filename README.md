@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # Xinyi Chen
 
 **Master Student in Biostatistics**
@@ -19,4 +18,3 @@ Welcome to my GitHub profile! Here’s a little about me:
 - ✉️ Email: your_email@example.com
 - 🌐 [Personal Website](https://xinyichen120.github.io/Xinyi-Chen)
 
--->
