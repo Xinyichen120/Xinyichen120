@@ -24,7 +24,3 @@ I am a master student in Statistics at the **University of Washington, Seattle**
 
 ---
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xinyichen120&show_icons=true&theme=radical)
-
