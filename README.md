@@ -20,7 +20,6 @@ I am a master student in Statistics at the **University of Washington, Seattle**
 
 ### Contact
 - 📧 **Email**: [xinyichen12138@gmail.com]  
-- 🌐 **Personal Website**: [https://xinyichen120.github.io](https://xinyichen120.github.io)   
 
 ---
 
